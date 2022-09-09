@@ -1,0 +1,7 @@
+organization=hanyorg
+projectKey=dotnetchecker
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.31745
+dashboardUrl=https://sonarcloud.io/dashboard?id=dotnetchecker
+ceTaskId=AYMdzFRhTDy14LUO3kMB
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYMdzFRhTDy14LUO3kMB
